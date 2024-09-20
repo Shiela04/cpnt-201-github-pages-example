@@ -38,7 +38,7 @@ This is a simple, interactive memory game built using HTML, CSS, and JavaScript.
   cd memory-game-app
 ```
 
-3. Open the index.html file in your preferred browser to start the game.
+3.Open the index.html file in your preferred browser to start the game.
 
 ## How to Play
 
